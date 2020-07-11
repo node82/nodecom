@@ -1,0 +1,7 @@
+{
+    "name": "Node",
+    "dependencies": {
+        "appolo-server": "2.15.1",
+        "graphql": "^15.2.0"
+    }
+}
